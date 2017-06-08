@@ -63,3 +63,4 @@
 - Extensible -> Easy to add new converters.
 - Public format, fully documented.
 
+- Can test the models with Python as well as convert them.
